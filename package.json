@@ -1,0 +1,9 @@
+{
+  "name": "hillstreet-cafe-pos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Point-of-sale app for Hill Street Café",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

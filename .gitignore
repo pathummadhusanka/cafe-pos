@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build and tool output
+dist/
+build/
+.vite/
+.cache/
+*.tsbuildinfo
+
+# Environment and local configuration
+.env
+.env.local
+.env.*.local
+*.env
+!.env.example
+
+# Logs and debug output
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime and temporary files
+pids/
+*.pid
+*.pid.lock
+tmp/
+temp/
+
+# Test and coverage output
+coverage/
+.nyc_output/
+
+# Editor files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.swp
+*.swo
+
+# OS-generated files
+.DS_Store
+Thumbs.db
